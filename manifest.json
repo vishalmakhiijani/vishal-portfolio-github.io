@@ -1,6 +1,6 @@
 {
-  "short_name": "Vishal Portfolio",
-  "name": "Vishal's Development Portfolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
